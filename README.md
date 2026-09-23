@@ -57,15 +57,15 @@ My primary engineering mandates include:
 
 * Python-based CLI tool used to build, validate, and manage complex documentation workflows across multiple source repositories.
 
+### :bar_chart: Open Source & GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sushant-suse&theme=transparent&hide_border=true" alt="Sushant's GitHub Stats" />
+</p>
+
 ---
 
 ### :mailbox_with_mail: Verification & Contact
 
 * **[SUSE Email](mailto:sushant.gaurav@suse.com)** | **[Personal Email](mailto:sushantgaurav57@gmail.com)**
 * **[LinkedIn](https://linkedin.com/in/sushant-gaurav)**
-
-### :bar_chart: Open Source & GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sushant-suse&theme=transparent&hide_border=true" alt="Sushant's GitHub Stats" />
-</p>
