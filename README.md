@@ -23,16 +23,18 @@ My primary engineering mandates include:
 
 * **CNCF & Cloud-Native Storage:** Contributing documentation, bug fixes, documentation ecosystem tooling, and controller/CLI features to **Longhorn** (cloud-native distributed block storage for Kubernetes).
 * **Developer Platform & Tooling:** Architecting internal platform tools, multi-repository build engines, and AST/NLP-driven migration pipelines to maximize developer velocity across SUSE and openSUSE projects.
-* **CI/CD & Quality Automation:** Engineering automated validation workflows, GitHub Actions, and Vale style enforcement pipelines to maintain strict documentation and code standards at enterprise scale
+* **CI/CD & Quality Automation:** Engineering automated validation workflows, GitHub Actions, and Vale style enforcement pipelines to maintain strict documentation and code standards at enterprise scale.
 
 ### :hammer_and_wrench: Work Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Golang, Python, Bash, SQL |
-| **Cloud & Orchestration** | Kubernetes (Controllers, CRDs, CSI), Docker, Linux, Cloud Native (CNCF) |
-| **Platform & DevEx** | AST Shielding, NLP (spaCy), Typer CLI, Vale Linter, Antora, AsciiDoc |
+| **Languages** | Golang, Python, Bash, JavaScript |
+| **Cloud & Orchestration** | Kubernetes (Controllers, CRDs, CSI), Docker, Linux, Cloud Native (CNCF), AWS |
+| **Platform & DevEx** | AST Shielding, NLP (spaCy), Typer CLI, Vale Linter, Antora, Markdown, AsciiDoc |
 | **CI/CD & Workflows** | GitHub Actions, Automated Testing, Git Hooks, Multi-Repo Pipelines |
+| **Backend & APIs** | Flask, FastAPI, NodeJS, REST APIs, Postman |
+| **Databases** | MySQL, MongoDB |
 
 ### :rocket: Primary Organization Contributions
 
